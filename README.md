@@ -1,4 +1,4 @@
-# Internship_Report_Code
+# Internship Report Code
 Code of the 3 experimental setups tested
 
 Each code needs to be executed on Google Colaboratory. 
