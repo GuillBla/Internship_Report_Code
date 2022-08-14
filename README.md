@@ -10,6 +10,6 @@ It contains images from 27 categories of topic.
 Therefore, before execution, the zip file must be saved in a Google Drive. 
 The access to this Google Drive will be requested at the beginning of the execution. 
 
-First experimental setup : Simple Transfer Learning.ipynb
-Second experimental setup : Eyeballer_Xception.ipynb
-Third experimental setup : Mixed_Inputs.ipynb
+First experimental setup : Simple Transfer Learning.ipynb.
+Second experimental setup : Eyeballer_Xception.ipynb.
+Third experimental setup : Mixed_Inputs.ipynb.
